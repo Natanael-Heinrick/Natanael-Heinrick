@@ -1,7 +1,7 @@
 <h1 align="center">Olá👋! Eu sou Natanael Heinrick</h1>
 <h3 align="center">Desenvolvedor Back-End e estudante de Ciência da Computação na UNIFG - PE</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contados:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/natanael-heinrick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/natanael-heinrick" height="30" width="40" /></a>
 <a href="https://instagram.com/@heinrinat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@heinrinat" height="30" width="40" /></a>
@@ -15,7 +15,7 @@
 
 <!---
 - 👋 Olá! Eu sou @Natanael-Heinrick, faço Bacharel em Ciência da Computação, na UNIFG - PE, busco sempre me aperfiçoar em novas linguagens e adquirir novos conhecimentos, além dos meus estudos na programação, que no caso seria estudar Matemática e Física.
-- 👀 Estou buscando sempre me aperfeiçoar na linguagem Java e PHP!
+- 👀 Estou buscando sempre me aperfeiçoar na linguagem Java!
 
 
 Natanael-Heinrick/Natanael-Heinrick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
