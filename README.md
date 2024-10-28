@@ -1,7 +1,7 @@
 <h1 align="center">Olá👋! Eu sou Natanael Heinrick</h1>
 <h3 align="center">Desenvolvedor Back-End e estudante de Ciência da Computação na UNIFG - PE</h3>
 
-<h3 align="left">Contados:</h3>
+<h3 align="left">Contatos:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/natanael-heinrick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/natanael-heinrick" height="30" width="40" /></a>
 <a href="https://instagram.com/@heinrinat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@heinrinat" height="30" width="40" /></a>
